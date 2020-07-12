@@ -1,4 +1,4 @@
-## Hellow!
+## Hello!
 
 Student in Computer Engineering and an enthusiast in Data Science and Web Development.
 
