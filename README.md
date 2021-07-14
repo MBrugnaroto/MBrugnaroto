@@ -2,9 +2,6 @@
 
 Student in Computer Engineering and an enthusiast in Data Science and Web Development.
 
--  I am currently studying Natural Language Processing (PLN) and Bidirectional Encoder Representations from Transformers (BERT).
--  At the same time, I am improving my knowledge of HTML, CSS and JavaScript.
--  Next step, I want to learn about Vue.js and Rub and Rails (Web Development).
 -  I am looking to collaborate on data analysis or web development projects.
 -  Ask me about anything.
 
