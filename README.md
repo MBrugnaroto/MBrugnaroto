@@ -7,6 +7,6 @@ Student in Computer Engineering and an enthusiast in Data Science and Web Develo
 *  Ask me about anything.
 
 ## Useful links: 
-* [Linkdin](https://www.linkedin.com/in/mateusbrugnaroto) <br>
+* [Linkedin](https://www.linkedin.com/in/mateusbrugnaroto) <br>
 * [Facebook](https://www.facebook.com/mateus.brugnaroto) <br>
 * [Instagram](https://www.instagram.com/brugnaroto_mateus/)
