@@ -4,7 +4,6 @@ Student in Computer Engineering and an enthusiast in Data Science and Web Develo
 
 *  I am looking to collaborate on data analysis or web development projects.
 *  DLS TI Intern | Supply Chain | Embraer
-*  Majoring in Computer Engineering
 *  Ask me about anything.
 
 ## Useful links: 
