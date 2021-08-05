@@ -3,7 +3,7 @@
 Student in Computer Engineering and an enthusiast in Data Science and Web Development.
 
 *  I am looking to collaborate on data analysis or web development projects.
-*  DLS TI Intern | Supply Chain | Embraer
+*  DLS TI Intern | Supply Chain | Embraer.
 *  Ask me about anything.
 
 ## Useful links: 
