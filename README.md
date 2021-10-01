@@ -1,6 +1,6 @@
 ## Hello!
 
-Student in Computer Engineering and an enthusiast in Data Science.
+Student in Computer Engineering at UFPEL and an enthusiast in Data Science.
 
 *  I am looking to collaborate on data science projects.
 *  DLS TI Intern | Supply Chain | Embraer.
