@@ -1,8 +1,8 @@
 ## Hello!
 
-Student in Computer Engineering and an enthusiast in Data Science and Web Development.
+Student in Computer Engineering and an enthusiast in Data Science.
 
-*  I am looking to collaborate on data analysis projects.
+*  I am looking to collaborate on data science projects.
 *  DLS TI Intern | Supply Chain | Embraer.
 *  Ask me about anything.
 
