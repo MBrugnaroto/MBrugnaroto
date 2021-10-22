@@ -3,7 +3,7 @@
 Student in Computer Engineering at UFPEL and an enthusiast in Data Science.
 
 *  I am looking to collaborate on data projects.
-*  DLS TI Intern | Supply Chain | Embraer.
+*  DLS TI Intern | Supply Chain | Embraer S/A.
 *  Ask me about anything.
 
 ## Useful links: 
