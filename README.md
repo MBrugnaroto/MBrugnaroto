@@ -1,7 +1,5 @@
 ## Hello!
 
-Student in Computer Engineering at UFPEL and an data enthusiast.
-
 *  I am looking to collaborate on data projects.
 *  Ask me about anything.
 
