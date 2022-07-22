@@ -1,7 +1,6 @@
 ## Hello!
 
 *  I am looking to collaborate on data projects.
-*  Ask me about anything.
 
 ## Useful links: 
 * [Linkedin](https://www.linkedin.com/in/mateusbrugnaroto) <br>
